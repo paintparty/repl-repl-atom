@@ -1,0 +1,12 @@
+{
+  ".platform-darwin atom-workspace atom-text-editor:not([mini])": {
+    "cmd-alt-enter": "repl-repl:eval-current-form",
+    "cmd-enter": "repl-repl:eval-outermost-form",
+    "cmd-alt-ctrl-enter": "repl-repl:eval-current-expression"
+  },
+  ".platform-linux atom-workspace atom-text-editor:not([mini]), .platform-win32 atom-workspace atom-text-editor:not([mini]), ": {
+    "ctrl-alt-enter": "repl-repl:eval-current-form",
+    "alt-enter": "repl-repl:eval-outermost-form",
+    "shift-alt-ctrl-enter": "repl-repl:eval-current-expression"
+  }
+}

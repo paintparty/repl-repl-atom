@@ -1,0 +1,47 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "repl-repl",
+        "submenu": [
+          {
+            "label": "Evaluate Outermost Form",
+            "command": "repl-repl:eval-outermost-form"
+          },
+          {
+            "label": "Evaluate Current Form",
+            "command": "repl-repl:eval-current-form"
+          },
+          {
+            "label": "Evaluate Current Expression",
+            "command": "repl-repl:eval-current-expression"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "repl-repl",
+          "submenu": [
+            {
+              "label": "Evaluate Outermost Form",
+              "command": "repl-repl:eval-outermost-form"
+            },
+            {
+              "label": "Evaluate Current Form",
+              "command": "repl-repl:eval-current-form"
+            },
+            {
+              "label": "Evaluate Current Expression",
+              "command": "repl-repl:eval-current-expression"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

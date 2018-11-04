@@ -1,0 +1,34 @@
+{
+  "name": "repl-repl",
+  "main": "./lib/repl-repl",
+  "version": "0.0.0",
+  "description": "Integrated ClojureScript REPL.",
+  "keywords": [
+    "cljs",
+    "clojurescript",
+    "clojure",
+    "repl",
+    "REPL",
+    "lisp",
+    "figwheel",
+    "chrome devtools",
+    "live coding",
+    "interactive",
+    "repl-repl",
+    "rebel-rebel"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "repl-repl:eval-current-form",
+      "repl-repl:eval-outermost-form",
+      "repl-repl:eval-current-expression"
+    ]
+  },
+  "repository": "https://github.com/paintparty/repl-repl-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
