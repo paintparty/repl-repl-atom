@@ -1,10 +1,12 @@
 ### Description ###
 Repl-Repl makes it dead simple to start evaluating Clojurescript code directly in your editor.  
-Instant feedback and stylish formatting is delivered straight to your Chrome DevTools console!
+Instant feedback with syntax highlighting is delivered straight to your DevTools console.  
+&nbsp;
 
 
-<img style="max-width:800px; border:1px solid silver;filter: brightness(0.97) contrast(105%) saturate(120%) ;" src="./images/rr-example-atom-1.gif" alt="repl-repl example animation"/>
+<img style="max-width:900px" src="./images/rr-example-atom-3.gif" alt="repl-repl example animation"/>
 
+&nbsp;
 ### Usage ###
 This extension is intended to be used in tandem with a live development environment such as [Figwheel](https://figwheel.org/).
 
@@ -15,7 +17,7 @@ Based on where the cursor is, you can do one of the following:
 Default keybinding: `cmd-enter` (mac), `alt-enter` (windows)
 
 **Evaluate Current Form**  
-Default keybinding: `cmd-alt-enter` (mac), `alt-win-enter` (windows)
+Default keybinding: `cmd-alt-enter` (mac), `alt-ctrl-enter` (windows)
 
 **Evaluate Current Expression**  
 Default keybinding: `ctrl-cmd-alt-enter` (mac), `shift-ctrl-alt-enter` (windows)
@@ -31,3 +33,4 @@ Additionally, you can access all the Repl-Repl commands from the following place
 
 &nbsp;  
 <p style="font-size:11px;margin-top:10px">Copyright © 2018 JC</p>
+<h8>Copyright © 2018 JC</figcaption>
