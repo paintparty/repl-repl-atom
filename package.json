@@ -1,7 +1,7 @@
 {
   "name": "repl-repl",
   "main": "./lib/repl-repl",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Integrated ClojureScript REPL.",
   "keywords": [
     "clojurescript",
