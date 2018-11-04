@@ -1,4 +1,4 @@
-# repl-repl <img src="./images/rr-sticker.png" height="80px" align="right" />
+# repl-repl <img src="./images/rr-sticker.jpg" height="80px" align="right" />
 
 **repl-repl** makes it dead simple to start evaluating Clojurescript code directly in your editor.  
 Instant feedback with syntax highlighting is delivered straight to your DevTools console.  
