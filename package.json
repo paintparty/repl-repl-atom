@@ -4,18 +4,10 @@
   "version": "0.1.5",
   "description": "Integrated ClojureScript REPL.",
   "keywords": [
-    "cljs",
     "clojurescript",
-    "clojure",
     "repl",
-    "REPL",
     "lisp",
-    "figwheel",
-    "chrome devtools",
-    "live coding",
-    "interactive",
-    "repl-repl",
-    "rebel-rebel"
+    "live"
   ],
   "activationCommands": {
     "atom-workspace": [
