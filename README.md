@@ -20,8 +20,9 @@ Default keybinding: `cmd-alt-enter` (mac), `alt-win-enter` (windows)
 **Evaluate Current Expression**  
 Default keybinding: `ctrl-cmd-alt-enter` (mac), `shift-ctrl-alt-enter` (windows)
 
-Please customize these keybindings to suit your needs.
+Please customize these keybindings to suit your needs.  
 
+&nbsp;
 
 Additionally, you can access all the Repl-Repl commands from the following places:  
 - The application menu (top of the screen) *Packages > repl-repl > ...*  
@@ -29,6 +30,4 @@ Additionally, you can access all the Repl-Repl commands from the following place
 - Open the command pallette (`cmd-shift-p`) and search for 'Repl Repl'
 
 &nbsp;  
-&nbsp;  
-<hr style="margin:20px 0 0 0">
-<p style="font-size:11px;margin-top:0px">Copyright © 2018 JC</p>
+<p style="font-size:11px;margin-top:10px">Copyright © 2018 JC</p>
