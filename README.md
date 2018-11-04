@@ -1,6 +1,5 @@
 # repl-repl <img src="./images/rr-sticker.png" height="80px" align="right" />
 
-&nbsp;  
 **repl-repl** makes it dead simple to start evaluating Clojurescript code directly in your editor.  
 Instant feedback with syntax highlighting is delivered straight to your DevTools console.  
 &nbsp;
@@ -11,7 +10,7 @@ Instant feedback with syntax highlighting is delivered straight to your DevTools
 &nbsp;
 ## Usage ##
 This extension is intended to be used in tandem with a live development environment such as [Figwheel](https://figwheel.org/).
-  
+
 Based on where the cursor is, you can do one of the following:
 
 ***Evaluate Outermost Form***  
