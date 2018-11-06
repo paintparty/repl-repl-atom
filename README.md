@@ -1,11 +1,11 @@
 # repl-repl <img src="./images/rr-sticker.jpg" height="80px" align="right" />
 
-**repl-repl** makes it dead simple to start evaluating Clojurescript code directly in your editor.  
-Instant feedback with syntax highlighting is delivered straight to your DevTools console.  
+**repl-repl** makes it dead simple to evaluate Clojurescript code directly in your editor.  
+Instant feedback with syntax highlighting is delivered straight to your browser's DevTools console.  
 &nbsp;
 
 
-<img style="max-width:900px" src="./images/rr-example-atom-3.gif" alt="repl-repl example animation"/>
+<img style="max-width:900px" src="./images/repl-repl-screen-3.gif" alt="repl-repl example animation"/>
 
 &nbsp;
 ## Usage ##
@@ -32,4 +32,5 @@ You can also access the commands above from the following places:
 - Open the command pallette (`cmd-shift-p`) and search for "Repl Repl"
 
 &nbsp;  
-Copyright © 2018 JC
+Copyright © 2018 JC  
+Example animation features the [FiraCode](https://github.com/tonsky/FiraCode) font by [tonsky](https://github.com/tonsky)
