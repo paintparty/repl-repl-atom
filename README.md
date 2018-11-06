@@ -1,10 +1,8 @@
 # repl-repl <img src="./images/rr-sticker.jpg" height="80px" align="right" />
-https://atom.io/packages/repl-repl
-
+&nbsp;  
 **repl-repl** makes it dead simple to evaluate Clojurescript code directly in your editor.  
 Instant feedback with syntax highlighting is delivered straight to your browser's DevTools console.  
 &nbsp;
-
 
 <img style="max-width:900px" src="./images/repl-repl-screen-3.gif" alt="repl-repl example animation"/>
 
